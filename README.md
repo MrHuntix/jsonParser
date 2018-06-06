@@ -1,5 +1,10 @@
 # jsonParser
 A json parser that generates an appropriate equation as described in a json file.  
+  
+Could not achieve the second goal i.e.  
+Transform the expression so that you have ‘x’ on one side , and all the operations on the
+other side. In this example, a transformed expression can be: x = (21 − 1) / 10  
+You should then print this simplified expression
 
 REQUIRES SYMPY:  
 pip install sympy  
